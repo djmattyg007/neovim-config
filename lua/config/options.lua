@@ -4,3 +4,5 @@
 
 vim.opt.relativenumber = false
 vim.opt.fileformats = "unix,dos"
+
+vim.g.autoformat = false
