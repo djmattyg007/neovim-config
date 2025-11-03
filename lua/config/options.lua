@@ -5,5 +5,6 @@
 vim.opt.relativenumber = false
 vim.opt.fileformats = "unix,dos"
 vim.opt.ww = "b,s,<,>,[,],h,l"
+vim.opt.clipboard = ""
 
 vim.g.autoformat = false
